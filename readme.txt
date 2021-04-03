@@ -4,10 +4,7 @@ Git has a mutable index called stage.
 Git tracks changes
 Creating a new branch is quick and simple.
 edit for feature push
-<<<<<<< Updated upstream
 edit for dev debug 101 for dev
-=======
 edit for dev --no-ff
 bug merge test
 hah
->>>>>>> Stashed changes
