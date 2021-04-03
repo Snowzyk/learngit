@@ -1,2 +1,2 @@
-git is a cvs
-git is free
+Git is a distributed version control system.
+Git is free software.
